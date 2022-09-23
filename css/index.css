@@ -1,0 +1,33 @@
+* {
+  padding: 10;
+  margin: 10;
+}
+
+body {
+  background: lightblue;
+}
+
+img {
+  float: left;
+  width: 200px;
+  height: 130px;
+  padding: 10px;
+}
+
+.article {
+  height: 135px;
+  width: 400px;
+}
+
+p {
+  padding: 10px;
+}
+
+div{
+  float: left;
+  padding: 10px;
+}
+
+.cos {
+  display: table;
+}
